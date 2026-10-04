@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_gradient_start">#0B1120</color>
+    <color name="bg_gradient_center">#161B2E</color>
+    <color name="bg_gradient_end">#0B1120</color>
+
+    <color name="sheet_bg">#161B2E</color>
+    <color name="input_bg">#12172A</color>
+
+    <color name="card_bg">#1C2136</color>
+    <color name="card_border">#2A3150</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_soft">#E2E8F0</color>
+    <color name="text_secondary">#97A3C4</color>
+    <color name="text_muted">#6B7394</color>
+
+    <!-- Accents -->
+    <color name="accent_blue">#60A5FA</color>
+    <color name="accent_indigo">#818CF8</color>
+    <color name="accent_pill_active">#3B82F6</color>
+
+    <!-- Semantic -->
+    <color name="success">#34D399</color>
+    <color name="success_dark">#065F46</color>
+    <color name="danger">#FB7185</color>
+    <color name="danger_soft">#FDA4AF</color>
+    <color name="warning">#FBBF24</color>
+
+    <!-- Chat bubbles -->
+    <color name="bubble_user">#3B82F6</color>
+    <color name="bubble_bot">#2A3150</color>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="2dp"
+    app:cardBackgroundColor="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="6dp">
+
+        <TextView
+            android:id="@+id/tvTileEmoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🌲"
+            android:textSize="32sp" />
+
+        <TextView
+            android:id="@+id/tvTileType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pine (25m)"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            android:textColor="#2E7D32"
+            android:layout_marginTop="2dp" />
+
+        <TextView
+            android:id="@+id/tvTileDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="09-06"
+            android:textSize="10sp"
+            android:textColor="#9E9E9E" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

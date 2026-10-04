@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157889651097",
+    "project_id": "focusforge-d9ae5",
+    "storage_bucket": "focusforge-d9ae5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157889651097:android:ec5513956daa53921df308",
+        "android_client_info": {
+          "package_name": "com.example.focusforge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCU-_Pjk1AGXkMKBxjvuVE9Nc52AqOrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
